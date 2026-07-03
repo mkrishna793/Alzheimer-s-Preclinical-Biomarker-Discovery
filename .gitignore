@@ -1,0 +1,27 @@
+# Project Neuro-Bridge gitignore
+
+# Ignore large raw neurophysiological datasets (28.3 GB)
+DATABASE/
+HEALTHY_POPULATION/
+ALZHEIMERS_POPULATION/
+Temp_Stitch/
+
+# Ignore Python virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Ignore temporary and cache files
+_paper_state.pkl
+_paper_temp.docx
+.cacheMap
+*.pyc
+__pycache__/
+.DS_Store
+*.tmp
+*.log
+
+# Ignore local system files
+Thumbs.db
+Desktop.ini
