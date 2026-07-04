@@ -2,7 +2,7 @@
 ### Mapping Alzheimer's Neural Rhythm Decay with Large-Scale Electrophysiology and AI
 
 **Developer & Researcher:** Mohan Krishna  
-**Collaborator:** Antigravity AI  
+**Collaborator**:- with AI Tool (To reserch on the data) 
 
 ---
 
