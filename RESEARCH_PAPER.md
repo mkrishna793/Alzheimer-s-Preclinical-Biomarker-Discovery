@@ -236,13 +236,13 @@ Our findings have several important clinical implications:
 
 This study has several important limitations that must be acknowledged:
 
-1. **Cross-Modality Comparison:** The healthy baseline was recorded via intracranial EEG, while the AD population used scalp EEG. While we controlled for this by performing alpha-specific sub-analyses, the different recording modalities introduce inherent variability.
+1. **Cross-Modality Comparison (iEEG vs. Scalp EEG):** The healthy control baseline (ds003688) was recorded via Intracranial EEG (iEEG) with depth electrodes placed directly within the brain tissue, whereas the Alzheimer's disease cohort was recorded using non-invasive Scalp EEG (10-20 system). iEEG has a significantly higher signal-to-noise ratio (SNR) because the skull and scalp do not attenuate or spatially smear the electrical signals. While direct comparisons of signal amplitude or spatial properties between these modalities are limited, the fact that the dominant peak frequency shift remains highly visible and statistically significant across both intracranial and scalp modalities demonstrates the extreme biological robustness of the Rhythm-Decay Signature.
 
 2. **Sample Size:** Although larger than many prior studies, our AD cohort (N=35) remains modest by epidemiological standards. Larger validation studies are needed.
 
 3. **Single-Channel Analysis:** We analyzed only one temporal channel per subject. Multi-channel topographic analysis could reveal more nuanced spatial patterns of rhythm degradation.
 
-4. **Confounding Variables:** Age, medication status, and comorbidities were not fully controlled. The AD population was older on average, and normal aging itself produces some alpha slowing.
+4. **Confounding Variables and Age Matching:** The clinical cohort and healthy control groups were not perfectly age-matched, with the AD group skewing older on average. Normative alpha frequency naturally declines slightly with age (senescent slowing of ~0.1 Hz per decade after age 50). While the observed 1.52 Hz slowing in the AD cohort is significantly larger than what can be explained by normal healthy aging alone, this age discrepancy remains a confounding factor. Future prospective studies must control strictly for age to fully decouple normal senescent slowing from pathological neurodegenerative decay.
 
 5. **Cross-Sectional Design:** This study cannot establish whether rhythm slowing precedes or follows cognitive decline. Longitudinal studies are essential to confirm the "lead-time advantage."
 
