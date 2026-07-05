@@ -1,4 +1,4 @@
-# Project Neuro-Bridge 🧠🔗
+# 🧠🔗 Project Neuro-Bridge 🧠🔗
 ### Mapping Alzheimer's Neural Rhythm Decay with Large-Scale Electrophysiology and AI
 
 **Developer & Researcher:** Mohan Krishna  
